@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on learning, educational, and instructional design 
 - 📫 How to reach me by email curtisstwos@gmail.com
 - Links to projects:
-- (Project Nemo 3rd Place Department of Homeland Security and ASU/UNLV Hackathon) https://www.unlv.edu/announcement/unlv-asu-students-collaborate-solve-homeland-security-challenges 
+- (Winner 2nd Overall and Winner Most Creative Radar.io Hack) https://devpost.com/software/project-punctual
+- (Hardening Soft Targets: Project Nemo 3rd Place Department of Homeland Security and ASU/UNLV Hackathon) https://www.unlv.edu/announcement/unlv-asu-students-collaborate-solve-homeland-security-challenges 
 - In the news:
 - (ASU Veteran Support) https://education.asu.edu/news/veterans-find-support-transition-education-careers
 
