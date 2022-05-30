@@ -7,7 +7,7 @@
   * (Winner 2nd Overall and Winner Most Creative Radar.io Hack) https://devpost.com/software/project-punctual
   * (Hardening Soft Targets: Project Nemo 3rd Place Department of Homeland Security and ASU/UNLV Hackathon) https://www.unlv.edu/announcement/unlv-asu-students-collaborate-solve-homeland-security-challenges 
 - In the news:
-  *(ASU Veteran Support) https://education.asu.edu/news/veterans-find-support-transition-education-careers
+  * (ASU Veteran Support) https://education.asu.edu/news/veterans-find-support-transition-education-careers
 
 <!---
 curtisstwos/curtisstwos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
