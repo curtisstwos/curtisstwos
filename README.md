@@ -2,6 +2,7 @@
 - 👀 I’m interested in personal and professional development, with a range of interests
 - 🌱 I’m currently learning GitHub, HTML, and CSS, on a learning path toward Javascript and software/web development
 - 💞️ I’m looking to collaborate on learning, educational, and instructional design 
+- :white_check_mark: Certs: Microsoft Azure Fundamentals 
 - 📫 How to reach me by email curtisstwos@gmail.com
 - :link: Links to projects:
   * [DevPost Pitch 2nd Place Overall and Winner Most Creative Radar.io Hack](https://devpost.com/software/project-punctual)
